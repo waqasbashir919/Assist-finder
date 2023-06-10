@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849706102390",
+    "project_id": "assistfinder-ffa0b",
+    "storage_bucket": "assistfinder-ffa0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849706102390:android:39edc712aac144e2f93957",
+        "android_client_info": {
+          "package_name": "com.example.assist_finders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzVreK_Efx2syCSU2IVqvRod44sKX6Le0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
